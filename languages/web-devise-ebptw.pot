@@ -1,0 +1,137 @@
+# Copyright (C) 2021 WebDevise Elementor Blog page templates widget project
+# This file is distributed under the same license as the WebDevise Elementor Blog page templates widget project package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebDevise Elementor Blog page templates widget project\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: 1: Plugin name 2: Elementor
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:105
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:106, webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:129, webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:153
+msgid "WebDevise Elementor Blog page templates widget"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:107, webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:130
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:128, webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:152
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/elementor.php:154
+msgid "PHP"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/plugin.php:48
+msgid "WEB Devise Elements"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:60
+msgid "Post Grid"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:100, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:100
+msgid "All"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:129, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:130
+msgid "Content"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:136, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:137
+msgid "Select Post Category"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:148, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:149
+msgid "Items per page"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:149, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:150
+msgid "Use - 1 to show all"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:162, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:176
+msgid "Pagination"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:164, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:178
+msgid "On"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:165, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:179
+msgid "Off"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:174, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:188
+msgid "Show Author Avatar"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:176, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:190
+msgid "Show"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:177, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:191
+msgid "Hide"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:224, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:243
+msgid "Post Title Style"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:232, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:295, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:358, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:251, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:313, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:375, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:437
+msgid "Typography"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:265, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:328, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:391, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:284, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:346, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:408, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:470
+msgid "Color"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:287, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:367
+msgid "Author Style"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:350, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:429
+msgid "Date Style"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:424, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:504
+msgid "Please select post categories"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-grid/widget.php:470, webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:551
+msgid "No posts found"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:60
+msgid "Post List"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:163
+msgid "Thumbnail Position"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:167
+msgid "Left"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:168
+msgid "Right"
+msgstr ""
+
+#: webdevise-elementor-blog-page-templates-widget/inc/elementor/widgets/post-list/widget.php:305
+msgid "Excerpt Style"
+msgstr ""
